@@ -1,0 +1,20 @@
+{
+  "name": "typescript-reactjs-flux-webpack",
+  "version": "1.0",
+  "private": true,
+  "dependencies": {
+    "flux": "^2.0.1",
+    "react": "^0.13.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.10.1",
+    "file-loader": "^0.8.1",
+    "less": "^2.5.0",
+    "less-loader": "^2.2.0",
+    "style-loader": "^0.10.2",
+    "ts-jsx-loader": "git://github.com/jbrantly/ts-jsx-loader.git#9f2fa56f2bf6989a8d27b3126f729f74f66b97f1",
+    "ts-loader": "^0.3.3",
+    "webpack": "^1.8.4",
+    "webpack-dev-server": "^1.8.0"
+  }
+}
