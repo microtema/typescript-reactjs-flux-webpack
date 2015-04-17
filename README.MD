@@ -11,12 +11,13 @@ A sample project that demonstrates the use of
   - Using LESS with webpack
   
   
-Progression
------------
+Tutorial
+--------
   
   The project should be checked out by version
   
   - v1.0 demonstrates a simple Hello World in ReactJS and the use of webpack ( No React Components, no Flux classes)  
+  - v2.0 demonstrates a simple React Component in Typescript an the use of Props and State
   
 Installing
 ----------
@@ -24,6 +25,11 @@ Installing
 Clone this repo locally using `git clone`
 Checkout the version 1.0 using `git checkout -b version1 v1.0`
 Then run `npm install` in the root directory of the project
+
+When you are done playing with v1.0, move to v2.0 using `git checkout -b version2 v2.0`.
+Run `npm install` again in case anything changed in the `package.json` file
+
+etc...
   
   
 Building and running
