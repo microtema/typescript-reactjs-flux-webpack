@@ -18,6 +18,13 @@ Tutorial
   
   - v1.0 demonstrates a simple Hello World in ReactJS and the use of webpack ( No React Components, no Flux classes)  
   - v2.0 demonstrates a simple React Component in Typescript an the use of Props and State
+  - v3.0 demonstrates a simple Flux app with the updated v2.0 React Component 
+  
+  Files are rather heavily commented. Some comments may have been removed between versions.
+  Start by understanding the webpack config file, then move on to app.ts, then the Counter Component, then the Flux classes
+  
+  jQuery is referenced but NOT used in the first 3 versions. A v4.0 may follow to show how to use jQuery at the React Compoenent level.
+  
   
 Installing
 ----------
