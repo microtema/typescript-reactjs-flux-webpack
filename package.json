@@ -1,6 +1,6 @@
 {
   "name": "typescript-reactjs-flux-webpack",
-  "version": "3.0",
+  "version": "3.0.1",
   "private": true,
   "dependencies": {
     "flux": "^2.0.1",
