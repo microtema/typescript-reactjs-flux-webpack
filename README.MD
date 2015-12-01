@@ -1,5 +1,5 @@
 
-** NOTE: This Project is outdated: typescript can now have jsx directly embedded in the source code **
+**NOTE: This Project is outdated: typescript can now have jsx directly embedded in the source code**
 I plan on deleting it soon
 
 
