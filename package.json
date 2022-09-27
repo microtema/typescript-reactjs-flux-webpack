@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "flux": "^2.0.1",
-    "react": "^0.13.1"
+    "react": "^0.14.0"
   },
   "devDependencies": {
     "css-loader": "^0.10.1",
